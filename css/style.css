@@ -204,7 +204,7 @@ button {
 }
 .about__img:hover {
   border: 4px solid rgb(155, 68, 255);
-  box-shadow: rgb(255 255 255) 0px 0px 20px;
+  box-shadow: rgb(3, 108, 202) 0px 0px 50px;
 }
 
 .about__content {
